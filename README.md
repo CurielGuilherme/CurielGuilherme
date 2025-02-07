@@ -1,4 +1,4 @@
-## Olá, Mundo! 🖖 [🇧🇷]
+## Olá, Mundo! ✌️ [🇧🇷]
 
 Meu nome é **Guilherme Henrique Curiel Caetano** e quero compartilhar um pouco sobre mim:
 
@@ -20,7 +20,7 @@ Meu nome é **Guilherme Henrique Curiel Caetano** e quero compartilhar um pouco 
 
 - 🧙‍♂️ Como hobbies eu tenho: escrever estórias, vexilologia, aprender novos idiomas, jogar videogames e boardgames, leitura, academia, assistir filmes e séries e consumir cultura pop.
 
-## Hello, World! :vulcan_salute: [🇺🇸]
+## Hello, World! ✌️ [🇺🇸]
 
 My name is **Guilherme Henrique Curiel Caetano** and I want to share a  bit about myself:
 
