@@ -6,7 +6,7 @@ Meu nome é **Guilherme Henrique Curiel Caetano** e quero compartilhar um pouco 
 
 - 🖥️ Trabalho na área de Tecnologia da Informação, na empresa Autbank projetos e consultoria, desde o ano de 2022;
 
-- 💼 Estou inserido no sistema de integração Pix, realizando: homologações, consultas em Base de Dados e manipulação de APIs;
+- 💼 Estou inserido no sistema de integração Pix, realizando: atendimento ao usuário, homologações, consultas em Base de Dados e manipulação de APIs;
 
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Lins, Instituição Estadual de Ensino Superior;
 
@@ -30,7 +30,7 @@ My name is **Guilherme Henrique Curiel Caetano** and I want to share a  bit abou
 
 - 🖥️ I work in the IT field at Autbank Projects and Consulting since 2022;
 
-- 💼 I’m involved in the Pix integration system, working on: testing, database queries, and API handling;
+- 💼 I’m involved in the Pix integration system, working on: user support, testing, database queries, and API handling;
 
 - 👨‍🎓 I’m a Technology Specialist in Systems Analysis and Development from Fatec Lins, a State Higher Education Institution;
 
