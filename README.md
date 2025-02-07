@@ -24,7 +24,7 @@ Meu nome é **Guilherme Curiel** e quero compartilhar um pouco sobre mim:
 
 ## WELCOME! ✌️ [🇺🇸]
 
-My name is **Guilherme Henrique Curiel Caetano** and I want to share a  bit about myself:
+My name is **Guilherme Curiel** and I want to share a  bit about myself:
 
 - 📡 I'm an enthusiast of science and technology;
 
