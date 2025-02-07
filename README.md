@@ -1,4 +1,4 @@
-## SEJA BEM-VINDO! ✌️ [🇧🇷]
+## BEM-VINDO! ✌️ [🇧🇷]
 
 Meu nome é **Guilherme Henrique Curiel Caetano** e quero compartilhar um pouco sobre mim:
 
