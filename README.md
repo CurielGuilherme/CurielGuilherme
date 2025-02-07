@@ -18,7 +18,7 @@ Meu nome é **Guilherme Curiel** e quero compartilhar um pouco sobre mim:
 
 - ⌨️ As Linguagens de Programação que conheço são: SQL, JAVA, C, Javascript, Python e PHP. E também em HTML e CSS;
 
-- 🧙‍♂️ Alguns hobbies: criar histórias, vexilologia, aprender novos idiomas, jogar videogames e boardgames, ler, academia, assistir filmes e séries e consumir cultura pop.
+- 🧙‍♂️ Alguns hobbies: criar histórias, vexilologia, aprender novos idiomas, jogar videogames e boardgames, ler, fotografar, academia, assistir filmes e séries e consumir cultura pop.
 
   **Vida longa e próspera! 🖖**
 
@@ -42,7 +42,7 @@ My name is **Guilherme Curiel** and I want to share a  bit about myself:
 
 - ⌨️ The programming languages I know are: SQL, JAVA, C, JavaScript, Python, and PHP, as well as HTML and CSS;
 
-- 🧙‍♂️ Some hobbies: creating stories, vexillology, learning new languages, playing video games and board games, reading, working out, watching movies and series, and consuming pop culture.
+- 🧙‍♂️ Some hobbies: creating stories, vexillology, learning new languages, playing video games and board games, reading, photograph, working out, watching movies and series, and consuming pop culture.
 
   **Live long and prosper! 🖖**
 
