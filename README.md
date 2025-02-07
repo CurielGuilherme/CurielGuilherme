@@ -1,6 +1,6 @@
 ## BEM-VINDO! ✌️ [🇧🇷]
 
-Meu nome é **Guilherme Henrique Curiel Caetano** e quero compartilhar um pouco sobre mim:
+Meu nome é **Guilherme Curiel** e quero compartilhar um pouco sobre mim:
 
 - 📡 Sou apaixonado por ciência e tecnologia;
 
