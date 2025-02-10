@@ -46,6 +46,12 @@ My name is **Guilherme Curiel** and I want to share a  bit about myself:
 
   **Live long and prosper! 🖖**
 
+ 
+  **Outras infos [Another infos]:** <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CurielGuilherme&layout=compact&theme=gotham)
+ 
+
+
 ## 🔗 Links
 |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-curiel-043639206/) |[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CurielGuilherme)|
 |--------|--------|
