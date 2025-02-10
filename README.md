@@ -34,7 +34,7 @@ My name is **Guilherme Curiel** and I want to share a  bit about myself:
 
 - 👨‍🎓 I’m a Technology Specialist in Systems Analysis and Development from Fatec Lins, a State Higher Education Institution;
 
-- 💻 I am currently pursuing a Bachelor's degree in Software Engineering at Unilins, a private higher education institution;
+- 💻 I'm currently pursuing a Bachelor's degree in Software Engineering at Unilins, a private higher education institution;
 
 - 💾 I’m also a graduate in Computer Technician from Etec Lins, a State Vocational and High School;
 
