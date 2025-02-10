@@ -10,7 +10,7 @@ Meu nome é **Guilherme Curiel** e quero compartilhar um pouco sobre mim:
 
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Lins, Instituição Estadual de Ensino Superior;
 
-- 💻 Sou graduando na faculdade de Bacharelado em Engenharia de Software pela Unilins, Instituição Privada de Ensino Superior;
+- 💻 Estou graduando na faculdade de Bacharelado em Engenharia de Software pela Unilins, Instituição Privada de Ensino Superior;
 
 - 💾 Também formado como Técnico em Informática pela Etec Lins, Escola Estadual de Ensino Médio e Técnico;
 
@@ -34,7 +34,7 @@ My name is **Guilherme Curiel** and I want to share a  bit about myself:
 
 - 👨‍🎓 I’m a Technology Specialist in Systems Analysis and Development from Fatec Lins, a State Higher Education Institution;
 
-- 💻 I’m an undergraduate student in Software Engineering at Unilins, a Private Higher Education Institution;
+- 💻 I am currently pursuing a Bachelor's degree in Software Engineering at Unilins, a private higher education institution;
 
 - 💾 I’m also a graduate in Computer Technician from Etec Lins, a State Vocational and High School;
 
